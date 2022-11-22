@@ -80,6 +80,7 @@
 		F6EC5136292A0F340015B299 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				F6EC5153292CF9FC0015B299 /* Repository */,
 				F6EC5152292CD9620015B299 /* Protocol */,
 				F6EC5151292CD95C0015B299 /* Class */,
 				F6EC514E292CCEEF0015B299 /* Constant */,
@@ -99,9 +100,7 @@
 		F6EC514E292CCEEF0015B299 /* Constant */ = {
 			isa = PBXGroup;
 			children = (
-				F6EC5147292A186C0015B299 /* Grade.swift */,
 				F6EC5139292A0F7B0015B299 /* MenuType.swift */,
-				F6EC5142292A14530015B299 /* Student.swift */,
 			);
 			path = Constant;
 			sourceTree = "<group>";
@@ -121,6 +120,15 @@
 				F6EC5140292A14270015B299 /* MyCreditService.swift */,
 			);
 			path = Protocol;
+			sourceTree = "<group>";
+		};
+		F6EC5153292CF9FC0015B299 /* Repository */ = {
+			isa = PBXGroup;
+			children = (
+				F6EC5147292A186C0015B299 /* Grade.swift */,
+				F6EC5142292A14530015B299 /* Student.swift */,
+			);
+			path = Repository;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
