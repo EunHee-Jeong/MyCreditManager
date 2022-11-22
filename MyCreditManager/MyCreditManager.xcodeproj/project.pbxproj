@@ -14,7 +14,7 @@
 		F6EC5148292A186C0015B299 /* Grade.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC5147292A186C0015B299 /* Grade.swift */; };
 		F6EC514B292CC2830015B299 /* String+.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC514A292CC2830015B299 /* String+.swift */; };
 		F6EC514D292CC8AF0015B299 /* MyCreditClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC514C292CC8AF0015B299 /* MyCreditClass.swift */; };
-		F6EC5150292CD8190015B299 /* DefaultMyCreditService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC514F292CD8190015B299 /* DefaultMyCreditService.swift */; };
+		F6EC5150292CD8190015B299 /* DefaultMyCreditClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC514F292CD8190015B299 /* DefaultMyCreditClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,7 +38,7 @@
 		F6EC5147292A186C0015B299 /* Grade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grade.swift; sourceTree = "<group>"; };
 		F6EC514A292CC2830015B299 /* String+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+.swift"; sourceTree = "<group>"; };
 		F6EC514C292CC8AF0015B299 /* MyCreditClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCreditClass.swift; sourceTree = "<group>"; };
-		F6EC514F292CD8190015B299 /* DefaultMyCreditService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultMyCreditService.swift; sourceTree = "<group>"; };
+		F6EC514F292CD8190015B299 /* DefaultMyCreditClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultMyCreditClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				F6EC514C292CC8AF0015B299 /* MyCreditClass.swift */,
-				F6EC514F292CD8190015B299 /* DefaultMyCreditService.swift */,
+				F6EC514F292CD8190015B299 /* DefaultMyCreditClass.swift */,
 			);
 			path = Class;
 			sourceTree = "<group>";
@@ -187,7 +187,7 @@
 				F6EC5148292A186C0015B299 /* Grade.swift in Sources */,
 				F6EC514B292CC2830015B299 /* String+.swift in Sources */,
 				F6EC5143292A14530015B299 /* Student.swift in Sources */,
-				F6EC5150292CD8190015B299 /* DefaultMyCreditService.swift in Sources */,
+				F6EC5150292CD8190015B299 /* DefaultMyCreditClass.swift in Sources */,
 				F6EC514D292CC8AF0015B299 /* MyCreditClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

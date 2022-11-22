@@ -1,5 +1,5 @@
 //
-//  DefaultMyCreditService.swift
+//  DefaultMyCreditClass.swift
 //  MyCreditManager
 //
 //  Created by 정은희 on 2022/11/22.
